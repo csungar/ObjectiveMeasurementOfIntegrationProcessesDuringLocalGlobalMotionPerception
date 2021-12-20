@@ -1,10 +1,11 @@
 ## Objective Measurement of Integration Processes During Local-Global Motion Perception
 
-This project was the initial code for a frequency tagging method to be used in a visuo-spatial experiment.
+This project was contucted by the Psychology Department of Sabanci University.
+This repsitory contains initial codes for a frequency tagging method to be used in a visuo-spatial experiment.
 This code will later be connected to an fMRI to achieve frequency tagging, and predict visual imagery of observers.
 
 Aim of this code was to create a visuo-spatial prompt of 8 dots moving in a circular pattern.
-The code was written in an OO manner to be able to control the rotation frequencies of the dots. The dots could only display two viual outcomes:
+The code was written in an Object Oriented manner to be able to control the rotation frequencies of the dots. The dots could only display two viual outcomes:
 
 1) 4 pair of dots fixated on the edges of a square, each of the pairs revolving on a different orbit.
 2) When a synronization happens on the visual prompt we could observe these revolving dots as two intertwined squares rotating.
